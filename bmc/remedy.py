@@ -23,7 +23,7 @@ class RemedyLoginException(RemedyException):
 
 
 class RemedyLogoutException(RemedyException):
-    """Exception to specifically indicate a problem loogging out of Remedy"""
+    """Exception to specifically indicate a problem logging out of Remedy"""
 
 
 class RemedySession:
